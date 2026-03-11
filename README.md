@@ -6,6 +6,7 @@
 
 This project focuses on a deep-dive investigation into the macOS thread scheduler, specifically targeting the Apple Silicon (M1/M2/M3) Asymmetric Multiprocessing (AMP) architecture and the **Quality of Service (QoS)** mechanism.
 
+<img width="1003" height="603" alt="image" src="https://github.com/user-attachments/assets/efbfb4fe-6796-4e0f-a0ed-7f43b118ca80" />
 
 
 ## Theoretical Background: P-Cores vs. E-Cores
